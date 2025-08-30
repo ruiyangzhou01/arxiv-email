@@ -1,13 +1,13 @@
 # arxiv-email
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/tbrazel/arxiv-email/math-email.yml)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ruiyangzhou01/arxiv-email/math-email.yml)
 
 Welcome to **arxiv-email**,
 a GitHub-hosted project that automates sending daily HTML-formatted emails featuring the latest arXiv publications.
 
 This bot aggregates the newest content from arXiv and delivers it directly to your inbox.
 
-<img width="667" alt="arxiv-email" src="https://github.com/tbrazel/arxiv-email/assets/42276623/082de276-3624-4b3e-9e87-97426b165aff">
+<img width="667" alt="arxiv-email" src="https://github.com/ruiyangzhou01/arxiv-email/assets/42276623/082de276-3624-4b3e-9e87-97426b165aff">
 
 ## Installation
 
